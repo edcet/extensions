@@ -180,7 +180,7 @@
     "lodash": "^4.17.21",
     "nanoid": "^4.0.0",
     "run-applescript": "^6.1.0",
-    "semver": "^7.3.8"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@types/is-url": "^1.2.30",
